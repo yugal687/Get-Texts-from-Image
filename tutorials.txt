@@ -1,0 +1,4 @@
+lets Start Variables:
+variable is anything where you can store, for example
+name = 'Dave'
+therefore name(variable) returns a value as Dave.
